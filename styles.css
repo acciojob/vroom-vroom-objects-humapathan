@@ -6,3 +6,6 @@ console.log(car.getMakeModel()); // Output: Ferrari Testarossa
 
 // Call getTopSpeed() to get the top speed of the sports car
 console.log(car.getTopSpeed()); // Output: 200
+
+
+
